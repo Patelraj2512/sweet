@@ -12,7 +12,7 @@ import Music from "@/components/Music";
 import OutroScreen from "@/components/OutroScreen";
 
 export default function Home() {
-  const [currentScreen, setCurrentScreen] = useState("second")
+  const [currentScreen, setCurrentScreen] = useState("first")
   const [musicStarted, setMusicStarted] = useState(false)
 
   const screens = {
