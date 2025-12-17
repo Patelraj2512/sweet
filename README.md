@@ -19,10 +19,10 @@ To run this project locally, follow these steps:
 
 ```bash
 # Clone the repository
-git clone https://github.com/Anuj579/sweet-favor.git
+git clone https://github.com/Patelraj2512/sweet.git
 
 # Navigate into the folder
-cd sweet-favor
+cd sweet
 
 # Install dependencies
 npm install
@@ -35,22 +35,13 @@ Then open [http://localhost:3000](http://localhost:3000) in your browser to expl
 
 ---
 
-## 🔗 Social Media
 
-Follow me for more emotional surprise websites and creative dev content:
-
-- 📷 Instagram: [@anujbuilds](https://instagram.com/anujbuilds)
-- 🎬 YouTube: [@anujbuilds](https://youtube.com/@anujbuilds)
-- 🐦 Twitter: [@anujbuilds](https://twitter.com/anujbuilds)
-- 💼 LinkedIn: [Anuj Chaudhary](https://linkedin.com/in/anujchaudhary549)
-
----
 
 ## ⭐ Support
 
-If you found this project lovely, please consider giving it a ⭐ on [GitHub](https://github.com/Anuj579)  
+If you found this project lovely, please consider giving it a ⭐ on [GitHub](https://github.com/Patelraj2512)  
 Thank you for being here! 🫶  
-Made with emotions by **Anuj** – _@anujbuilds_
+Made with emotions by **Raj Patel**
 
 ✨ If you'd like to support my work directly, you can donate via UPI:  
 **anujbuilds.wallet@phonepe**  
